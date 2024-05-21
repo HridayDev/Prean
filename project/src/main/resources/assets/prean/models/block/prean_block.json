@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "prean:blocks/prean_block",
+    "particle": "prean:blocks/prean_block"
+  }
+}

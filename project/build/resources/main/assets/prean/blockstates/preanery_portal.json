@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "prean:block/preanery_portal_ew"
+    },
+    "axis=x": {
+      "model": "prean:block/preanery_portal_ns"
+    }
+  }
+}

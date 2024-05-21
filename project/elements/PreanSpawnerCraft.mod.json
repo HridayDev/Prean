@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PreanBlock"
+      },
+      {
+        "value": "CUSTOM:Prun"
+      },
+      {
+        "value": "CUSTOM:PreanBlock"
+      },
+      {
+        "value": "CUSTOM:Prean"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "CUSTOM:Prean"
+      },
+      {
+        "value": "CUSTOM:PreanBlock"
+      },
+      {
+        "value": "CUSTOM:Prun"
+      },
+      {
+        "value": "CUSTOM:PreanBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PreanerSpawner"
+    },
+    "name": "prean_spawner_craft",
+    "namespace": "mod"
+  }
+}

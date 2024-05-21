@@ -1,0 +1,12 @@
+{
+  "group": "prean",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 1,
+  "ingredient": {
+    "item": "prean:prean"
+  },
+  "result": {
+    "item": "prean:prun"
+  }
+}

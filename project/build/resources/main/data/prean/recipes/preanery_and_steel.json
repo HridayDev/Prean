@@ -1,0 +1,16 @@
+{
+  "group": "prean",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prean:prean"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "prean:preanery",
+    "count": 1
+  }
+}

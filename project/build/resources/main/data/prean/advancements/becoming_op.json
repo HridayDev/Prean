@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "prean:prean"
+    },
+    "title": {
+      "translate": "advancements.becoming_op.title"
+    },
+    "description": {
+      "translate": "advancements.becoming_op.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "becoming_op": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "prean:prean_block"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 30000,
+    "recipes": [
+      "prean:prean_block_to_prean",
+      "prean:prean_to_prean_block",
+      "prean:prean_pick_crafter",
+      "prean:prean_sword_craft",
+      "prean:prean_ore_to_prean_smelt",
+      "prean:prean_chestplate_craft",
+      "prean:prean_leggings_craft",
+      "prean:prean_boots_craft",
+      "prean:prean_helmet_craft",
+      "prean:prean_axe_craft",
+      "prean:prean_shovel_craft",
+      "prean:prean_hoe_craft",
+      "prean:preanery_and_steel",
+      "prean:prean_spawner_craft",
+      "prean:prean_bow_craft"
+    ]
+  },
+  "parent": "minecraft:story/iron_tools"
+}

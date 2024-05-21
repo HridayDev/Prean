@@ -1,0 +1,26 @@
+{
+  "group": "prean",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "prean:prean"
+    },
+    "2": {
+      "item": "prean:prean"
+    },
+    "3": {
+      "item": "prean:prean"
+    },
+    "5": {
+      "item": "prean:prean"
+    }
+  },
+  "result": {
+    "item": "prean:prean_chestplate_boots",
+    "count": 1
+  }
+}

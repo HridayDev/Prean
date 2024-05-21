@@ -1,0 +1,30 @@
+{
+  "group": "prean",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "prean:prean"
+    },
+    "1": {
+      "item": "prean:prean"
+    },
+    "2": {
+      "item": "prean:prean"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "prean:prean_axe",
+    "count": 1
+  }
+}

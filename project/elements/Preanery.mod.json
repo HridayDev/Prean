@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:PreaneryBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:PreanBlock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:PreanOre"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:PreanBlock"
+    },
+    "portalParticles": {
+      "value": "WHITE_ASH"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Preanery And Steel",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "prean_chestplate",
+    "portalTexture": "portal_to_preanery",
+    "enablePortal": true
+  }
+}

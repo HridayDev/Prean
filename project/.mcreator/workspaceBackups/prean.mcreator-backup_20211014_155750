@@ -1,0 +1,434 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Prean",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean"
+    },
+    {
+      "name": "PreanBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_block"
+    },
+    {
+      "name": "PreanBlockToPrean",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_block_to_prean"
+    },
+    {
+      "name": "PreanToPreanBlock",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_to_prean_block"
+    },
+    {
+      "name": "PreanPick",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_pick"
+    },
+    {
+      "name": "PreanPickCrafter",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_pick_crafter"
+    },
+    {
+      "name": "PreanSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_sword"
+    },
+    {
+      "name": "PreanSwordCraft",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_sword_craft"
+    },
+    {
+      "name": "PreanOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_ore"
+    },
+    {
+      "name": "PreanOreToPreanSmelt",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_ore_to_prean_smelt"
+    },
+    {
+      "name": "PreanChestplate",
+      "type": "armor",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_chestplate",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PreanChestplateCraft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_chestplate_craft"
+    },
+    {
+      "name": "PreanLeggingsCraft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_leggings_craft"
+    },
+    {
+      "name": "PreanBootsCraft",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_boots_craft"
+    },
+    {
+      "name": "PreanHelmetCraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_helmet_craft"
+    },
+    {
+      "name": "PreanAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_axe"
+    },
+    {
+      "name": "PreanAxeCraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_axe_craft"
+    },
+    {
+      "name": "PreanShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_shovel"
+    },
+    {
+      "name": "PreanShovelCraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_shovel_craft"
+    },
+    {
+      "name": "PreanHoe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_hoe"
+    },
+    {
+      "name": "PreanHoeCraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_hoe_craft"
+    },
+    {
+      "name": "PreaneryBiome",
+      "type": "biome",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preanery_biome"
+    },
+    {
+      "name": "Preanery",
+      "type": "dimension",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preanery",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "PreaneryAndSteel",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preanery_and_steel"
+    },
+    {
+      "name": "BecomingOP",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "becoming_op"
+    },
+    {
+      "name": "Preaning",
+      "type": "fluid",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preaning",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "PreanLake",
+      "type": "structure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_lake"
+    },
+    {
+      "name": "Prun",
+      "type": "food",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prun"
+    },
+    {
+      "name": "PrunRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prun_recipe"
+    },
+    {
+      "name": "PrunRecipeSmoker",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prun_recipe_smoker"
+    },
+    {
+      "name": "PrunRecipeCampfire",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prun_recipe_campfire"
+    },
+    {
+      "name": "PreanerBoss",
+      "type": "livingentity",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preaner_boss"
+    },
+    {
+      "name": "PreanBossSpawnButton",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_boss_spawn_button",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PreanBossSpawn",
+      "type": "gui",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_boss_spawn"
+    },
+    {
+      "name": "PreanerSpawner",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "preaner_spawner"
+    },
+    {
+      "name": "PreanSpawnerCraft",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_spawner_craft"
+    },
+    {
+      "name": "PreanBow",
+      "type": "rangeditem",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_bow"
+    },
+    {
+      "name": "PreanBowCraft",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "prean_bow_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.prean.prean": "Prean",
+      "item.prean.preanery": "Preanery And Steel",
+      "item.prean.prean_chestplate_chestplate": "Prean Chestplate",
+      "entity.prean.preaner_boss": "Preaner Boss",
+      "fluid.prean.preaning": "Preaning",
+      "item.prean.prean_pick": "Prean Pickaxe",
+      "item.prean.prean_axe": "Prean Axe",
+      "item.prean.prean_sword": "Prean Sword",
+      "block.prean.prean_block": "Prean Block",
+      "item.prean.preaning_bucket": "Preaning Bucket",
+      "item.prean.prean_bow": "Prean Bow",
+      "item.prean.prean_chestplate_leggings": "Prean Leggings",
+      "biome.prean.preanery_biome": "Preanery",
+      "item.prean.prean_chestplate_helmet": "Prean Helmet",
+      "item.prean.prean_hoe": "Prean Hoe",
+      "block.prean.preaning": "Preaning",
+      "advancements.becoming_op.descr": "Place A Block Of Prean",
+      "block.prean.prean_ore": "Prean Ore",
+      "item.prean.prean_shovel": "Prean Shovel",
+      "item.prean.preaner_boss_spawn_egg": "Preaner Boss Spawn Egg",
+      "item.prean.prean_chestplate_boots": "Prean Boots",
+      "fluid.preaning": "Preaning",
+      "block.prean.preaner_spawner": "Preaner Spawner",
+      "advancements.becoming_op.title": "Becoming OP",
+      "item.prean.prun": "Prun"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "prean",
+    "modName": "prean",
+    "version": "1.2.1",
+    "author": "PROMAN",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "prean",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "This Mod Is Make By PROMAN or Hriday Khanna.",
+    "modElementsPackage": "proman.learning.prean",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

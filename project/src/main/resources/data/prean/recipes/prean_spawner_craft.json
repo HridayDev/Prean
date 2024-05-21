@@ -1,0 +1,42 @@
+{
+  "group": "prean",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "prean:prean_block"
+    },
+    "1": {
+      "item": "prean:prun"
+    },
+    "2": {
+      "item": "prean:prean_block"
+    },
+    "3": {
+      "item": "prean:prean"
+    },
+    "4": {
+      "item": "minecraft:egg"
+    },
+    "5": {
+      "item": "prean:prean"
+    },
+    "6": {
+      "item": "prean:prean_block"
+    },
+    "7": {
+      "item": "prean:prun"
+    },
+    "8": {
+      "item": "prean:prean_block"
+    }
+  },
+  "result": {
+    "item": "prean:preaner_spawner",
+    "count": 1
+  }
+}

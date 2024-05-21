@@ -1,0 +1,13 @@
+{
+  "group": "prean",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prean:prean_block"
+    }
+  ],
+  "result": {
+    "item": "prean:prean",
+    "count": 9
+  }
+}

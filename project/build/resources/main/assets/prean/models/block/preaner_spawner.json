@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "prean:blocks/portal_to_preanery",
+    "up": "prean:blocks/prean_spawn_block",
+    "north": "prean:blocks/portal_to_preanery",
+    "east": "prean:blocks/portal_to_preanery",
+    "south": "prean:blocks/portal_to_preanery",
+    "west": "prean:blocks/portal_to_preanery",
+    "particle": "prean:blocks/portal_to_preanery"
+  }
+}

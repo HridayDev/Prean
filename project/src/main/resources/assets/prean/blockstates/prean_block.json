@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "prean:block/prean_block"
+    }
+  }
+}
